@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// 세 값의 최솟값을 구하는 min3 메서드
+
 public class Q2 {
     static int min3(int a, int b, int c) {
         int min = a;

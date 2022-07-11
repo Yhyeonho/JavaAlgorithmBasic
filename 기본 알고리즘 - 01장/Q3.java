@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// 네 값의 최솟값을 구하는 min4 메서드
 public class Q3 {
     static int min3(int a, int b, int c, int d) {
         int min = a;
