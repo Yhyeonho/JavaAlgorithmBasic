@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfa8182-8a16-4df8-8eeb-fdee1ed0834f" name="변경" comment="Q1~Q3">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAlgorithmBasic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/_02장_기본자료구조/연습문제/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_02장_기본자료구조/연습문제/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/_02장_기본자료구조/연습문제/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_02장_기본자료구조/연습문제/Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/_02장_기본자료구조/연습문제/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_02장_기본자료구조/연습문제/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/기본 알고리즘 - 01장/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_01장_기본알고리즘/연습문제/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/기본 알고리즘 - 01장/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_01장_기본알고리즘/연습문제/Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/기본 알고리즘 - 01장/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_01장_기본알고리즘/연습문제/Q3.java" afterDir="false" />
+    <list default="true" id="7bfa8182-8a16-4df8-8eeb-fdee1ed0834f" name="변경" comment="Q1~Q3 - 2022/7/12">
+      <change afterPath="$PROJECT_DIR$/main/_01장_기본_알고리즘/실습예제/EX1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657504459250</updated>
       <workItem from="1657504461326" duration="3089000" />
-      <workItem from="1657591188482" duration="1477000" />
+      <workItem from="1657591188482" duration="2203000" />
     </task>
     <task id="LOCAL-00001" summary="Q1~Q3">
       <created>1657509469787</created>
@@ -146,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657509706189</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Q1~Q3 - 2022/7/12">
+      <created>1657593056428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657593056429</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Q1~Q3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q1~Q3" />
+    <MESSAGE value="Q1~Q3 - 2022/7/12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q1~Q3 - 2022/7/12" />
   </component>
 </project>
