@@ -1,3 +1,5 @@
+package _01장_기본_알고리즘.연습문제;
+
 import java.util.Scanner;
 
 // 네 값의 최댓값을 구하는 max4 메서드

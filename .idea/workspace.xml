@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bfa8182-8a16-4df8-8eeb-fdee1ed0834f" name="변경" comment="Q1~Q3">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAlgorithmBasic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/_02장_기본자료구조/연습문제/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_02장_기본자료구조/연습문제/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/_02장_기본자료구조/연습문제/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_02장_기본자료구조/연습문제/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/_02장_기본자료구조/연습문제/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_02장_기본자료구조/연습문제/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/기본 알고리즘 - 01장/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_01장_기본알고리즘/연습문제/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/기본 알고리즘 - 01장/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_01장_기본알고리즘/연습문제/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/기본 알고리즘 - 01장/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_01장_기본알고리즘/연습문제/Q3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BmHhFaNjJTJABG101EKyCwWvBU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/hyeon6097/Documents/Programming/JavaAlgorithmBasic/main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/기본 자료구조 - 02장/연습문제" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="연습문제" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션._01장_기본_알고리즘.연습문제.Q1">
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01장_기본_알고리즘.연습문제.Q1" />
+      <module name="JavaAlgorithmBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01장_기본_알고리즘.연습문제.Q2" />
+      <module name="JavaAlgorithmBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01장_기본_알고리즘.연습문제.Q3" />
+      <module name="JavaAlgorithmBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="연습문제.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="연습문제.test" />
+      <module name="JavaAlgorithmBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01장_기본_알고리즘.연습문제.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.연습문제.test" />
+        <item itemvalue="애플리케이션._01장_기본_알고리즘.연습문제.Q1" />
+        <item itemvalue="애플리케이션._01장_기본_알고리즘.연습문제.Q2" />
+        <item itemvalue="애플리케이션._01장_기본_알고리즘.연습문제.Q3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="7bfa8182-8a16-4df8-8eeb-fdee1ed0834f" name="변경" comment="" />
+      <created>1657504459250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657504459250</updated>
+      <workItem from="1657504461326" duration="3089000" />
+      <workItem from="1657591188482" duration="1477000" />
+    </task>
+    <task id="LOCAL-00001" summary="Q1~Q3">
+      <created>1657509469787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657509469787</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Q1~Q3">
+      <created>1657509546758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657509546758</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Q1~Q3">
+      <created>1657509706189</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657509706189</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Q1~Q3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q1~Q3" />
+  </component>
+</project>
