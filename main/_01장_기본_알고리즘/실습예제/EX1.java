@@ -13,9 +13,12 @@ public class EX1 {
         System.out.print("b의 값 : "); int b = stdin.nextInt();
         System.out.print("c의 값 : "); int c = stdin.nextInt();
 
-        int max = a;
-        if (b > max) max = b;
-        if (c > max) max = c;
+        int max = a; // 1. max에 a값을 넣음
+        if (b > max) max = b; // 2. b값이 max보다 크면 max에 b값을 넣음
+        if (c > max) max = c; // 3. c값이 max보다 크면 max에 c값을 넣음
+
+        // --> 순차(sequential) 구조 : 여러 문장(프로세스)이 순차적으로 실행되는 구조
+        // 2, 3은 if 문 --> 선택(selection) 구조
 
         System.out.println("최댓값은 " + max + " 입니다.");
     }

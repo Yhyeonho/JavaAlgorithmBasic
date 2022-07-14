@@ -23,6 +23,6 @@ public class Q3 {
         System.out.print("c의 값 : "); int c = stdIn.nextInt();
         System.out.print("d의 값 : "); int d = stdIn.nextInt();
 
-        System.out.println("최t솟값 : " + min3(a, b, c, d));
+        System.out.println("최솟값 : " + min3(a, b, c, d));
     }
 }

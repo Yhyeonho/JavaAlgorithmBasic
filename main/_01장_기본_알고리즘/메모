@@ -1,0 +1,38 @@
+보충수업 1-1 숫자와 문자열 입력하기 1
+
+import java.util.Scanner; // java.util 패키지에 있는 Scanner 클래스 import
+class A {
+    public static void main(String[] args) {
+        Scanner stdIn = new Scanner(System.in); // System.in --> 키보드와 연결된 표준 입력 스트림(standard input stream)
+        stdIn.nextInt(); // 키보드로 입력한 int형 정숫값을 읽어들임
+    }
+}
+
+* int값의 범위 : -2,147,483,648 ~ 2,147,483,648
+* stdIn은 System.in(표준 입력 스트림)에서 문자나 숫자를 꺼냄, stdIn은 다른 이름으로 바꿔도 됨
+* https://ko.wikipedia.org/wiki/%ED%91%9C%EC%A4%80_%EC%8A%A4%ED%8A%B8%EB%A6%BC (표준 스트림)
+
+보충수업 1-2 숫자와 문자열 입력하기 2
+
+nextInt() : int
+nextLong() : long
+nextFloat() : float
+nextDouble() : double
+next() : String(공백이나 줄바꿈 문자로 구분되는 문자열)
+nextLine() : String(문자열 1줄)
+nextShort() : short
+nextByte() : byte
+nextBoolean() : boolean
+
+조금만 더! 매개변수를 좀 더 알아볼까요?
+static int class(a, b, c) { // a, b, c : 매개변수(형식매개변수, 가인수, 임시 인수)
+    return a + b + c
+}
+public static void main(String[] args) {
+    class(1,2,3) // 1, 2, 3 : 실인수
+}
+
+알고리즘이란? : 어떤 문제를 해결하기 위한 절차로, 명확하게 정의되고 순서가 있는 유한 개의 규칙으로 이루어진 집합
+
+보충수업 1-3
+

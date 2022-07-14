@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bfa8182-8a16-4df8-8eeb-fdee1ed0834f" name="변경" comment="Q1~Q3 - 2022/7/12">
-      <change afterPath="$PROJECT_DIR$/main/_01장_기본_알고리즘/실습예제/EX1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/_01장_기본_알고리즘/메모" beforeDir="false" afterPath="$PROJECT_DIR$/main/_01장_기본_알고리즘/메모" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/_01장_기본_알고리즘/실습예제/EX1.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_01장_기본_알고리즘/실습예제/EX1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/_01장_기본_알고리즘/연습문제/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/_01장_기본_알고리즘/연습문제/Q3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,8 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,7 +62,33 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션._01장_기본_알고리즘.연습문제.Q1">
+  <component name="RunManager" selected="애플리케이션.EX2">
+    <configuration name="EX1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01장_기본_알고리즘.실습예제.EX1" />
+      <module name="JavaAlgorithmBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01장_기본_알고리즘.실습예제.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01장_기본_알고리즘.실습예제.EX2" />
+      <module name="JavaAlgorithmBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01장_기본_알고리즘.실습예제.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_01장_기본_알고리즘.연습문제.Q1" />
       <module name="JavaAlgorithmBasic" />
@@ -69,13 +98,6 @@
     </configuration>
     <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_01장_기본_알고리즘.연습문제.Q2" />
-      <module name="JavaAlgorithmBasic" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01장_기본_알고리즘.연습문제.Q3" />
       <module name="JavaAlgorithmBasic" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,10 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.EX2" />
+        <item itemvalue="애플리케이션.EX1" />
         <item itemvalue="애플리케이션.연습문제.test" />
         <item itemvalue="애플리케이션._01장_기본_알고리즘.연습문제.Q1" />
         <item itemvalue="애플리케이션._01장_기본_알고리즘.연습문제.Q2" />
-        <item itemvalue="애플리케이션._01장_기본_알고리즘.연습문제.Q3" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657504459250</updated>
       <workItem from="1657504461326" duration="3089000" />
-      <workItem from="1657591188482" duration="2203000" />
+      <workItem from="1657591188482" duration="5684000" />
     </task>
     <task id="LOCAL-00001" summary="Q1~Q3">
       <created>1657509469787</created>
@@ -142,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657593056429</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Q1~Q3 - 2022/7/12">
+      <created>1657593726414</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657593726414</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
